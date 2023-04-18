@@ -169,12 +169,10 @@ class SettingsMenu(Menu):
 class VolumeMenu(Menu):
     def __init__(self, game):
         Menu.__init__(self, game)
-        self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK")
-        # Volume box_rect
-        self.box_rect = pg.Rect(self.game.display_x/4, self.game.mid_y, self.game.mid_x, 150)
-        # Slider
-        self.slider = Slider(self.game.brown, self.game.green,self.game.display_x/4, self.game.mid_y, 100, 150, self.font_name, "| | ", self.box_rect)
 
+        self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK")
+        self.box_rect = pg.Rect(self.game.display_x/4, self.game.mid_y, self.game.mid_x, 150)
+        self.slider = Slider(self.game.brown, self.game.green,self.game.display_x/4, self.game.mid_y, 100, 150, self.font_name, "| | ", self.box_rect)
         self.buttons = [self.back, self.slider]
 
     def update_position(self, new_x):
@@ -187,7 +185,6 @@ class VolumeMenu(Menu):
         self.volume_rect = pg.Rect(0, 0, self.slider.top_rect.left - self.box_rect.left, self.box_rect.h)
         pg.draw.rect(self.box_surf, self.game.red, (self.volume_rect))
         self.game.screen.blit(self.box_surf, self.box_rect)
-
 
      # Recieve current red volume width from volume object       
     def update_volume(self):
@@ -244,9 +241,7 @@ class ControlMenu(Menu):
 
         self.changing = False
         self.changed = False
-
         self.invalid_keybind = False
-
 
         # Get list of keybind keys for player from database
         self.keybind_keys = self.game.database.load_keys()    
@@ -287,7 +282,6 @@ class ControlMenu(Menu):
         
     # When back button is pressed, return to settings and load keybind changes to database
     def check_back(self):
-
         if self.back.is_left_clicked():
             # Update any keybind changes in database
             self.game.database.update_keys_table(self.get_update_data())
@@ -329,8 +323,6 @@ class ControlMenu(Menu):
         for keybind in self.keybinds:
             keybind.draw_button(self.game.screen)
 
-
-
     def draw_all_buttons(self):
         self.back.draw_button(self.game.screen)
         self.draw_all_keybinds()
@@ -343,9 +335,6 @@ class ControlMenu(Menu):
             self.draw_all_buttons()
             self.check_events()
             pg.display.update()
-
-
-
 
 class CreditsMenu(Menu):
     def __init__(self, game):
@@ -392,6 +381,7 @@ class CreditsMenu(Menu):
 class AfterLifeMenu(Menu):
     def __init__ (self, game):
         """
+        These params are set within levels file upon a death/ level completion. not passed as an arg
         score --> score of player at the time of level completion or death
         dead  --> boolean, true if player died, false if player simply completed the level
         """
@@ -404,7 +394,7 @@ class AfterLifeMenu(Menu):
         self.main_menu = Button(self.game.black, self.game.brown, self.game.mid_x - 700 , self.game.mid_y + self.offset_y, 400, 100, self.font_name, "MAIN MENU")
         self.play_again = Button(self.game.black, self.game.brown, self.game.mid_x -200, self.game.mid_y + self.offset_y, 400, 100, self.font_name, "PLAY AGAIN")
         self.leaderboard = Button(self.game.black, self.game.brown, self.game.mid_x + 300, self.game.mid_y + self.offset_y, 400, 100, self.font_name, "LEADERBOARD")
-
+        self.buttons = [self.main_menu, self.play_again, self.leaderboard]
 
     def draw_all_text(self):
         # If player died
@@ -414,14 +404,10 @@ class AfterLifeMenu(Menu):
             self.game.draw_text("CONGRATULATIONS", self.game.green, 80, self.game.mid_x, self.game.mid_y - 300)
         self.game.draw_text(f"You managed to score {self.score} points!", self.game.white, 60, self.game.mid_x , self.game.mid_y - 200)
 
-
     # Draw all buttons to screen
     def draw_all_buttons(self):
-        self.main_menu.draw_button(self.game.screen)
-        self.play_again.draw_button(self.game.screen) 
-        self.leaderboard.draw_button(self.game.screen)
-    
-    
+        for button in self.buttons:
+            button.draw_button(self.game.screen)
 
     # If user clicks ' Play again ', restart level
     def check_play_again(self):
@@ -476,15 +462,13 @@ class LeaderboardMenu(Menu):
         self.buttons = [self.terrarium, self.level2, self.level3, self.level4, self.main_menu]
         self.load_map_icons()
 
-        # TODO - draw map icons on top of maps
+        # TODO - draw map icons on top of maps HERE
 
     def check_terrarium(self):
         if self.terrarium.is_left_clicked():
             self.run_display = False
             self.game.terrarium_leaderboard.display_menu()
-
-           
-    
+ 
     def check_level2(self):
         if self.level2.is_left_clicked():
             pass 

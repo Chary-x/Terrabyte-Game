@@ -18,10 +18,8 @@ class ImpactTile():
 		self.rect = self.surface.get_rect(topleft=(x,y))    # Converiting tile surface to rectangle
 
 
-
 class Level():
 	def __init__(self, game, level, map_name, time_limit, tmx_path):
-
 
 		self.game = game
 		self.level = level 
@@ -32,8 +30,6 @@ class Level():
 		self.run_display = False
 		# Load the tiled map data
 		self.tmx_data = load_pygame(self.tmx_path)
-		self.origin = [0,0]
-		self.font_name = "Fonts/DigitalDisco.ttf"
 		self.clock = pg.time.Clock()
 
 		self.count = 0
