@@ -6,7 +6,6 @@ import pygame as pg
 
 class Menu():
     def __init__(self, game):
-
         self.font_name = "Fonts/DigitalDisco.ttf"
         self.run_display = False
         self.offset_y = 100
@@ -16,17 +15,9 @@ class Menu():
 
         self.buttons = [self.back]
 
-
     def draw_all_buttons(self):
         for button in self.buttons:
             button.draw_button(self.game.screen)
-
-    def draw_text(self, text, colour, size, x, y):
-        self.font = pg.font.Font(self.font_name, size)
-        self.text = self.font.render(text, True, colour)
-        self.text_rect = self.text.get_rect()
-        self.text_rect.center = (x,y)
-        self.game.screen.blit(self.text, self.text_rect)
 
     # Check if user quits
     def check_quit(self, event_type):
@@ -51,7 +42,6 @@ class Menu():
     # If user clicks ' main menu ' display main menu
     def check_main_menu(self):
         if self.main_menu.is_left_clicked():
-
             self.respawn_player()
             self.run_display = False
             self.game.main_menu.display_menu()
@@ -65,20 +55,13 @@ class Menu():
             self.draw_all_buttons()
             self.check_events()
             pg.display.update()
-
-    def check_events(self):
-        pass
-
-
 # MainMenu
 
 class MainMenu(Menu):
     def __init__(self, game):
-        self.game = game
-        self.font_name = "Fonts/DigitalDisco.ttf"
-        self.run_display = False
-        self.offset_y = 100
+        Menu.__init__(self, game)
 
+        self.offset_y = 100
         self.volume_count = 0
 
         # Buttons
@@ -91,8 +74,8 @@ class MainMenu(Menu):
 
     # Draw all text to screen
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
-        self.draw_text("MAIN MENU", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
+        self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
+        self.game.draw_text("MAIN MENU", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
 
 
     # Check if settings button is pressed
@@ -148,7 +131,6 @@ class MainMenu(Menu):
 class SettingsMenu(Menu):
     def __init__(self, game):
         Menu.__init__(self, game)
-        self.game = game
         self.volume = Button(self.game.black, self.game.brown, self.game.mid_x - (self.game.mid_x/3.3), self.game.mid_y - self.offset_y, 500, 100, self.font_name, "VOLUME")
         self.controls = Button(self.game.black, self.game.brown, self.game.mid_x - (self.game.mid_x/3.3), self.game.mid_y + self.offset_y, 500, 100, self.font_name, "CONTROLS")
         self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK")      
@@ -157,8 +139,8 @@ class SettingsMenu(Menu):
 
 
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
-        self.draw_text("SETTINGS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
+        self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
+        self.game.draw_text("SETTINGS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
 
     # If back button pressed, go back to main menu
     def check_back(self):
@@ -187,7 +169,6 @@ class SettingsMenu(Menu):
 class VolumeMenu(Menu):
     def __init__(self, game):
         Menu.__init__(self, game)
-        self.game = game 
         self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK")
         # Volume box_rect
         self.box_rect = pg.Rect(self.game.display_x/4, self.game.mid_y, self.game.mid_x, 150)
@@ -220,10 +201,10 @@ class VolumeMenu(Menu):
         self.draw_volume()  
 
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
-        self.draw_text("VOLUME", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
-        self.draw_text("MOVE THE SLIDER TO CHANGE THE VOLUME", self.game.white, 40, self.game.mid_x , self.game.mid_y - 100)
-        self.draw_text("Volume : " + str(self.slider.get_percentage()) + " % ", self.game.white, 40, self.game.mid_x , self.game.mid_y + 250)
+        self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
+        self.game.draw_text("VOLUME", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
+        self.game.draw_text("MOVE THE SLIDER TO CHANGE THE VOLUME", self.game.white, 40, self.game.mid_x , self.game.mid_y - 100)
+        self.game.draw_text("Volume : " + str(self.slider.get_percentage()) + " % ", self.game.white, 40, self.game.mid_x , self.game.mid_y + 250)
 
     # If back button pressed, go back to main menu
     def check_back(self):
@@ -258,7 +239,6 @@ class VolumeMenu(Menu):
 class ControlMenu(Menu):
     def __init__(self, game):
         Menu.__init__(self, game)
-        self.game = game
         
         self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK")
 
@@ -287,22 +267,22 @@ class ControlMenu(Menu):
 
     def draw_keybind_text(self):
         # Space 120 y pixels apart
-        self.draw_text("MOVE UP", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y - 190)
-        self.draw_text("MOVE LEFT", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y - 70)
-        self.draw_text("MOVE DOWN", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 50)
-        self.draw_text("MOVE RIGHT", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 170)
-        self.draw_text("ATTACK", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 290)
-        self.draw_text("INVENTORY", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 410)
+        self.game.draw_text("MOVE UP", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y - 190)
+        self.game.draw_text("MOVE LEFT", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y - 70)
+        self.game.draw_text("MOVE DOWN", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 50)
+        self.game.draw_text("MOVE RIGHT", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 170)
+        self.game.draw_text("ATTACK", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 290)
+        self.game.draw_text("INVENTORY", self.game.white, 50, self.game.mid_x - 100, self.game.mid_y + 410)
 
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 400)
-        self.draw_text("CONTROLS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 300)
+        self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 400)
+        self.game.draw_text("CONTROLS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 300)
         self.draw_keybind_text()
         
         if self.changing:
-            self.draw_text("ENTER NEW KEYBIND", self.game.red, 40, self.game.mid_x , self.game.mid_y- 230)
+            self.game.draw_text("ENTER NEW KEYBIND", self.game.red, 40, self.game.mid_x , self.game.mid_y- 230)
         if self.invalid_keybind:
-            self.draw_text("KEYBIND ALREADY TAKEN", self.game.red, 40, self.game.mid_x , self.game.mid_y- 230)
+            self.game.draw_text("KEYBIND ALREADY TAKEN", self.game.red, 40, self.game.mid_x , self.game.mid_y- 230)
 
         
     # When back button is pressed, return to settings and load keybind changes to database
@@ -370,16 +350,17 @@ class ControlMenu(Menu):
 class CreditsMenu(Menu):
     def __init__(self, game):
         Menu.__init__(self, game)
+
         self.back = Button(self.game.black, self.game.red, 10, 10, 80,80, self.font_name, "BACK") 
 
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
-        self.draw_text("CREDITS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
-        self.draw_text("TERRABYTE NEA by Chary aka Ignatius", self.game.white, 50, self.game.mid_x, self.game.mid_y)
-        self.draw_text("Menu Template by CDCodes on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 100)
-        self.draw_text("Entity sprites : Penzilla.itch.io", self.game.white, 30, self.game.mid_x, self.game.mid_y + 200)
-        self.draw_text("Initial button class : Tech With Tim on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 300)
-        self.draw_text("Weapon assets : Flaticon.com and disven.itch.io", self.game.white, 30, self.game.mid_x, self.game.mid_y + 400 )
+        self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
+        self.game.draw_text("CREDITS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
+        self.game.draw_text("TERRABYTE NEA by Chary aka Ignatius", self.game.white, 50, self.game.mid_x, self.game.mid_y)
+        self.game.draw_text("Menu Template by CDCodes on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 100)
+        self.game.draw_text("Entity sprites : Penzilla.itch.io", self.game.white, 30, self.game.mid_x, self.game.mid_y + 200)
+        self.game.draw_text("Initial button class : Tech With Tim on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 300)
+        self.game.draw_text("Weapon assets : Flaticon.com and disven.itch.io", self.game.white, 30, self.game.mid_x, self.game.mid_y + 400 )
         
     def draw_all_buttons(self):
         self.back.draw_button(self.game.screen)
@@ -428,10 +409,10 @@ class AfterLifeMenu(Menu):
     def draw_all_text(self):
         # If player died
         if self.dead:
-            self.draw_text("YOU DIED", self.game.red, 80, self.game.mid_x, self.game.mid_y - 300)
+            self.game.draw_text("YOU DIED", self.game.red, 80, self.game.mid_x, self.game.mid_y - 300)
         else:
-            self.draw_text("CONGRATULATIONS", self.game.green, 80, self.game.mid_x, self.game.mid_y - 300)
-        self.draw_text(f"You managed to score {self.score} points!", self.game.white, 60, self.game.mid_x , self.game.mid_y - 200)
+            self.game.draw_text("CONGRATULATIONS", self.game.green, 80, self.game.mid_x, self.game.mid_y - 300)
+        self.game.draw_text(f"You managed to score {self.score} points!", self.game.white, 60, self.game.mid_x , self.game.mid_y - 200)
 
 
     # Draw all buttons to screen
@@ -537,8 +518,8 @@ class LeaderboardMenu(Menu):
         # Do same for future icons here
 
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.green, 80, self.game.mid_x, self.game.mid_y - 420)
-        self.draw_text("LEADERBOARDS", self.game.white, 40, self.game.mid_x, self.game.mid_y - 360)
+        self.game.draw_text("TERRABYTE", self.game.green, 80, self.game.mid_x, self.game.mid_y - 420)
+        self.game.draw_text("LEADERBOARDS", self.game.white, 40, self.game.mid_x, self.game.mid_y - 360)
 
     # Check all user events
     def check_events(self):

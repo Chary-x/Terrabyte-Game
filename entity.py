@@ -33,6 +33,10 @@ class Entity():
 		self.motion = ""
 		self.facing = ""
 
+		self.speed = 2
+		self.base_speed = 2
+
+
 
 		self.animation_list = []
 
@@ -297,8 +301,7 @@ class Player(Entity):
 
 		self.motion = "Idle Left"
 		self.facing = "Right"   # Track which way character is facing
-		self.base_speed = 2
-		self.speed = 2
+
 
 		self.current_level = self.game.levels[self.map_level]
 		self.inventory = Inventory(self)
@@ -593,9 +596,7 @@ class BrainMoleMonarch(Enemy):
 		# List of possible movements
 		# Keep track of ticks
 		self.move_count = 0
-		self.speed = 2
-		self.base_speed = 2
-
+		
 	""" Check/Sequence mob events """
 	def check_events(self):
 		self.check_movements()
