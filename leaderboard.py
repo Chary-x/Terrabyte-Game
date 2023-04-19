@@ -68,10 +68,8 @@ class Leaderboard(Menu):
 class TerrariumLeaderboard(Leaderboard):
     def __init__ (self, game):
         Leaderboard.__init__(self, game, 1)
-        self.game = game
 
-        # get top 10 players for corropsonding level
-
+    # get top 10 players for corropsonding level
     # Draw all text
     def draw_all_text(self):
         self.draw_text("TERRABYTE", self.game.green, 80, self.game.mid_x, self.game.mid_y - 420)

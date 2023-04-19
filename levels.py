@@ -256,10 +256,6 @@ class Level():
 				# Re-iterate
 				pass
 
-
-
-	
-
 	def check_enemy_deaths(self):
 		""" 
 		Handle enemy deaths 
