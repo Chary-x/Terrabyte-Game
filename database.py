@@ -563,7 +563,7 @@ class Database():
 
 
 
-	# Pass username, hashed password FROM backend login into database object within game file
+	# Pass username, hashed password FROM frontend login into database object within game file
 	def validate_login(self, user, pass_hash):
 		""" 
 		Parameters:
