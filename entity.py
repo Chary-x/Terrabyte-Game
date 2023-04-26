@@ -566,7 +566,6 @@ class Player(Entity):
 		self.check_events()
 		self.check_health()
 
-
 		#print(self.last_pos)
 		"""
 		print("\nUp : ", self.game.control_menu.up_keybind.get_pressed())

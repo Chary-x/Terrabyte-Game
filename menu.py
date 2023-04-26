@@ -345,7 +345,8 @@ class CreditsMenu(Menu):
     def draw_all_text(self):
         self.game.draw_text("TERRABYTE", self.game.white, 80, self.game.mid_x, self.game.mid_y - 300)
         self.game.draw_text("CREDITS", self.game.green, 60, self.game.mid_x , self.game.mid_y - 200)
-        self.game.draw_text("TERRABYTE NEA by Chary aka Ignatius", self.game.white, 50, self.game.mid_x, self.game.mid_y)
+        self.game.draw_text("TERRABYTE NEA by Chary aka Ignatius", self.game.gold, 50, self.game.mid_x, self.game.mid_y - 100)
+        self.game.draw_text("Current music soundtrack : Intervals - Lock & Key", self.game.white, 30, self.game.mid_x, self.game.mid_y)
         self.game.draw_text("Menu Template by CDCodes on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 100)
         self.game.draw_text("Entity sprites : Penzilla.itch.io", self.game.white, 30, self.game.mid_x, self.game.mid_y + 200)
         self.game.draw_text("Initial button class : Tech With Tim on youtube", self.game.white, 30, self.game.mid_x, self.game.mid_y + 300)

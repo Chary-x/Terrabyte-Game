@@ -6,6 +6,9 @@ class Boombox():
 	def __init__(self, game):
 
 		# Filpaths
+
+		# The only current song
+		# Lunatric - lock & key https://www.youtube.com/watch?v=uMYJjSWaTag
 		self.locknkey = "lock&key.wav"
 
 
