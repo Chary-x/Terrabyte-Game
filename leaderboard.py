@@ -18,7 +18,9 @@ class Leaderboard(Menu):
             #player's current level = menu's level
             self.game.current_level = self.game.levels[self.level]
             # update 'map_level' field for player'
-            self.game.player.update_player_table(self.game.current_level, 'map_level', self.game.player.player_id)
+            """ REMOVED AS CURRENTLY ONLY 1 LEVEL 
+            #self.game.database.update_player_table(self.game.current_level, 'map_level', self.game.player.player_id)]
+            """
             # None case
             if self.game.player.current_level != None:
                 # Display player's current level
@@ -63,7 +65,7 @@ class Leaderboard(Menu):
                 # Not in top 3, no podium colour
                 colour = self.game.white
 
-            self.draw_text(f"{i+1}, {display_name} : {score}", colour, 30, self.game.mid_x, offset_y)
+            self.game.draw_text(f"{i+1}, {display_name} : {score}", colour, 30, self.game.mid_x, offset_y)
 
 class TerrariumLeaderboard(Leaderboard):
     def __init__ (self, game):
@@ -72,8 +74,8 @@ class TerrariumLeaderboard(Leaderboard):
     # get top 10 players for corropsonding level
     # Draw all text
     def draw_all_text(self):
-        self.draw_text("TERRABYTE", self.game.green, 80, self.game.mid_x, self.game.mid_y - 420)
-        self.draw_text("TERRARIUM LEADERBOARD" , self.game.white, 40, self.game.mid_x, self.game.mid_y - 360)
+        self.game.draw_text("TERRABYTE", self.game.green, 80, self.game.mid_x, self.game.mid_y - 420)
+        self.game.draw_text("TERRARIUM LEADERBOARD" , self.game.white, 40, self.game.mid_x, self.game.mid_y - 360)
         self.draw_player_text()
 
     # Return to leaderboard menu if back is selected
