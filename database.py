@@ -479,7 +479,6 @@ class Database():
 
 				# Create new item
 				newItem = Item(self.game, item_name, rarity, item_type, damage, sprite_path)
-				# Add item to inventory list
 
 				# Add item to next position in the 2d list
 				row = i // columns
