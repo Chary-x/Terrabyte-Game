@@ -33,7 +33,6 @@ class Leaderboard(Menu):
         # List containing top_x players for this level
         self.top_x = {}
 
-
     def get_top_x(self):
         """ 
         Get a list of top x players for that level

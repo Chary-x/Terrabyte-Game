@@ -1,8 +1,6 @@
 # BUTTON CLASS INSPIRED BY CD CODES ON YOUTUBE 
 import pygame as pg
 
-
-
 class Button():
     pg.init()
     def __init__(self, colour, hov_colour, x, y, width, height, font=" ", text=" "):
@@ -191,6 +189,7 @@ class Keybind(Button):
 
                     self.game.control_menu.invalid_keybind = True   # Invalid keybind given
                     self.changing = False
+                    print("#")
                 else:
                     self.game.control_menu.invalid_keybind = False  #  Valid keybind given
                     self.set_keybind_key(keybind_character)         #  Set keybind key character to the one given

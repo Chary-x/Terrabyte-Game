@@ -1,8 +1,6 @@
 import pygame as pg
 from button import Button, ItemButton
 
-
-
 class Inventory():
 	def __init__ (self, player):
 		self.player = player

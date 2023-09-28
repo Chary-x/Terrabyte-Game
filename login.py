@@ -170,7 +170,7 @@ class LoginRegistrationTemplate(Page):
 	def update_inputs(self):
 		self.user_surf = self.font.render(self.username_text, True, self.game.white)
 		self.game.screen.blit(self.user_surf, (475,340))
-		self.pass_surf = self.font.render(self.password_text, True, self.game.white)
+		self.pass_surf = self.font.render('*'* len(self.password_text), True, self.game.white)
 		self.game.screen.blit(self.pass_surf, (475, 600))
 
 	# Check if back button ahs been pressed
@@ -311,6 +311,8 @@ class LoginRegistrationTemplate(Page):
 class RegistrationPage(LoginRegistrationTemplate):
 	def __init__(self, game):
 		LoginRegistrationTemplate.__init__(self, game)
+
+
 
 
 	def draw_all_text(self):

@@ -4,6 +4,7 @@ import csv
 import pygame as pg
 from inventory import Item
 
+
 class Database():
 	def __init__(self, game):
 		self.game = game
@@ -18,7 +19,6 @@ class Database():
 		self.connection.commit()
 		self.cursor.close()
 		self.connection.close()
-
 
 	# Create player table
 	def create_player_table(self):
