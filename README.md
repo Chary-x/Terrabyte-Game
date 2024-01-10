@@ -3,22 +3,27 @@
 
 ## Control System
 ![Control System](readmeimgs/Controls.png)
+
 In Terrabyte, navigate through dungeons using intuitive controls for a seamless gaming experience.
 
 ## Inventory Management
 ![Inventory Management](readmeimgs/Inventory.png)
+
 Manage your collected mythical items efficiently using the in-game inventory system.
 
 ## Leaderboard Display
 ![Leaderboard Display](readmeimgs/Leaderboard.png)
+
 Compete with others and track your progress on the global leaderboard.
 
 ## Leaderboard Menu
 ![Leaderboard Menu](readmeimgs/LeaderboardMenu.png)
+
 Access the leaderboard menu to view top players and challenge their scores.
 
 ## Volume Settings
 ![Volume Settings](readmeimgs/Volume.png)
+
 Adjust the volume settings to personalize your gaming environment.
 
 Explore these features and elevate your gaming experience with Terrabyte!
