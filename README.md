@@ -1,6 +1,29 @@
-# Terrabyte - 2D Top-Down Dungeon Crawler Game
+# Welcome to Terrabyte, an engaging 2D top-down dungeon crawler where your goal is to gain points by slaying enemies and collecting mythical items. Will you be the one to achieve the highest score in each specific dungeon?
 
-Welcome to Terrabyte, an engaging 2D top-down dungeon crawler where your goal is to gain points by slaying enemies and collecting mythical items. Will you be the one to achieve the highest score in each specific dungeon?
+
+## Control System
+![Control System](readmeimgs/Control.png)
+In Terrabyte, navigate through dungeons using intuitive controls for a seamless gaming experience.
+
+## Inventory Management
+![Inventory Management](readmeimgs/Inventory.png)
+Manage your collected mythical items efficiently using the in-game inventory system.
+
+## Leaderboard Display
+![Leaderboard Display](readmeimgs/Leaderboard.png)
+Compete with others and track your progress on the global leaderboard.
+
+## Leaderboard Menu
+![Leaderboard Menu](readmeimgs/LeaderboardMenu.png)
+Access the leaderboard menu to view top players and challenge their scores.
+
+## Volume Settings
+![Volume Settings](readmeimgs/Volume.png)
+Adjust the volume settings to personalize your gaming environment.
+
+Explore these features and elevate your gaming experience with Terrabyte!
+
+For detailed instructions and gameplay tips, refer to the game manual or documentation.
 
 ## Gameplay Overview
 
