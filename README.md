@@ -1,1 +1,1 @@
-exe/main -> Terrabyte.exe
+zip -> exe/main -> Terrabyte.exe
