@@ -1,0 +1,1021 @@
+([('main.exe',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('python310.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\python310.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\.libs\\libopenblas.FB5AE2TYXYH2IJRDKGDGQ3XBKLKTF43H.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('libfreetype-6.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libfreetype-6.dll',
+   'BINARY'),
+  ('libvorbisfile-3.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libvorbisfile-3.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('libvorbis-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libvorbis-0.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('libmpg123-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libmpg123-0.dll',
+   'BINARY'),
+  ('libFLAC-8.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libFLAC-8.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\markupsafe\\_speedups.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\transform.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\color.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\rect.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\constants.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\mixer.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\lapack_lite.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\linalg\\lapack_lite.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\random\\_common.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\fft\\_pocketfft_internal.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\imageext.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\fastevent.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\fastevent.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\scrap.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\mixer_music.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\font.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\_freetype.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\time.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\pixelarray.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\mask.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\surface.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\mouse.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\key.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\joystick.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\image.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\event.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\draw.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\display.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\math.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\surflock.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\rwobject.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp310-win_amd64.pyd',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\base.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\zlib1.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('pygame\\libvorbis-0.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\libvorbis-0.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('Assets\\Icons\\Items\\Bows\\Icon1.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon1.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon10.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon10.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon11.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon11.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon12.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon12.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon12_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon12_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon13.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon13.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon13_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon13_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon14.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon14.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon14_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon14_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon15.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon15.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon15_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon15_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon16.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon16.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon16_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon16_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon17.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon17.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon18.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon18.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon19.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon19.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon19_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon19_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon1_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon1_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon2.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon2.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon20.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon20.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon20_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon20_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon21.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon21.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon21_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon21_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon22.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon22.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon22_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon22_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon23.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon23.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon23_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon23_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon24.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon24.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon25.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon25.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon25_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon25_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon26.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon26.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon26_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon26_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon27.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon27.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon27_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon27_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon28.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon28.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon29.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon29.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon29_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon29_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon2_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon2_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon3.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon3.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon30.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon30.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon30_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon30_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon31.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon31.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon32.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon32.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon32_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon32_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon33.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon33.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon34.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon34.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon35.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon35.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon36.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon36.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon37.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon37.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon37_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon37_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon38.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon38.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon38_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon38_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon39.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon39.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon3_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon3_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon4.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon4.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon40.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon40.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon40_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon40_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon41.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon41.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon42.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon42.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon43.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon43.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon43_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon43_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon44.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon44.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon44_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon44_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon45.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon45.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon45_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon45_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon46.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon46.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon46_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon46_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon47.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon47.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon47_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon47_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon48.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon48.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon4_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon4_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon5.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon5.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon6.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon6.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon6_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon6_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon7.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon7.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon8.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon8.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon8_no_effect.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon8_no_effect.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Bows\\Icon9.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Bows\\Icon9.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Iron Scythe.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Iron '
+   'Scythe.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Iron Sword.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Iron '
+   'Sword.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Knife.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Knife.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Royal Sword.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Royal '
+   'Sword.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Stone Sword.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Stone '
+   'Sword.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Common\\Wooden Sword.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Common\\Wooden '
+   'Sword.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Epic\\Amethesium.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Epic\\Amethesium.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Epic\\Prismarine.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Epic\\Prismarine.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Epic\\Susanoo.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Epic\\Susanoo.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Epic\\Valkarie.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Epic\\Valkarie.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Legendary\\Dark Excalibur.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Legendary\\Dark '
+   'Excalibur.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Legendary\\Infinity Gauntlet.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Legendary\\Infinity '
+   'Gauntlet.png',
+   'DATA'),
+  ("Assets\\Icons\\Items\\Swords\\Legendary\\Kirito's Solstice.png",
+   'C:\\Users\\Ignatius '
+   "David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Legendary\\Kirito's "
+   'Solstice.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Legendary\\Severedi.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Legendary\\Severedi.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Rare\\Energy Shaper.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Energy '
+   'Shaper.png',
+   'DATA'),
+  ("Assets\\Icons\\Items\\Swords\\Rare\\Gaia's Vengence.png",
+   'C:\\Users\\Ignatius '
+   "David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Gaia's "
+   'Vengence.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Rare\\Glacial Blade.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Glacial '
+   'Blade.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Rare\\Infernal Blade.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Infernal '
+   'Blade.png',
+   'DATA'),
+  ("Assets\\Icons\\Items\\Swords\\Rare\\Tanjiro's Katana.png",
+   'C:\\Users\\Ignatius '
+   "David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Tanjiro's "
+   'Katana.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Rare\\Witched Blade.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Rare\\Witched '
+   'Blade.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Uncommon\\Blood Scythe.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Blood '
+   'Scythe.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Uncommon\\Corrupted Blade.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Corrupted '
+   'Blade.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Uncommon\\Diamond Sword.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Diamond '
+   'Sword.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Uncommon\\Shadow Blade.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Shadow '
+   'Blade.png',
+   'DATA'),
+  ('Assets\\Icons\\Items\\Swords\\Uncommon\\Zabuza.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Zabuza.png',
+   'DATA'),
+  ("Assets\\Icons\\Items\\Swords\\Uncommon\\Zenitsu's Katana.png",
+   'C:\\Users\\Ignatius '
+   "David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Icons\\Items\\Swords\\Uncommon\\Zenitsu's "
+   'Katana.png',
+   'DATA'),
+  ('Assets\\Sprites\\Mobs\\BrainMoleMonarch.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Mobs\\BrainMoleMonarch.png',
+   'DATA'),
+  ('Assets\\Sprites\\Mobs\\Cacodaemon.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Mobs\\Cacodaemon.png',
+   'DATA'),
+  ('Assets\\Sprites\\Mobs\\GoblinMech.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Mobs\\GoblinMech.png',
+   'DATA'),
+  ('Assets\\Sprites\\Mobs\\KoboldPriest.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Mobs\\KoboldPriest.png',
+   'DATA'),
+  ('Assets\\Sprites\\Mobs\\Minotaur.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Mobs\\Minotaur.png',
+   'DATA'),
+  ('Assets\\Sprites\\Player\\HoodedProtagonist.png',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Assets\\Sprites\\Player\\HoodedProtagonist.png',
+   'DATA'),
+  ('Fonts\\AvenirCondensedHand.ttf',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Fonts\\AvenirCondensedHand.ttf',
+   'DATA'),
+  ('Fonts\\DigitalDisco.ttf',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Fonts\\DigitalDisco.ttf',
+   'DATA'),
+  ('Fonts\\NexaTextDemo-Bold.ttf',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Fonts\\NexaTextDemo-Bold.ttf',
+   'DATA'),
+  ('Fonts\\coolvetica condensed rg.otf',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Fonts\\coolvetica condensed rg.otf',
+   'DATA'),
+  ('Maps\\Level Icons\\Terrarium.png',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Level '
+   'Icons\\Terrarium.png',
+   'DATA'),
+  ('Maps\\Levels\\level1..csv',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Levels\\level1..csv',
+   'DATA'),
+  ('Maps\\Levels\\level1.tmx',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Levels\\level1.tmx',
+   'DATA'),
+  ('Maps\\TERRABYTE.tiled-project',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\TERRABYTE.tiled-project',
+   'DATA'),
+  ('Maps\\TERRABYTE.tiled-session',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\TERRABYTE.tiled-session',
+   'DATA'),
+  ('Maps\\Texture Image\\TX Tileset Grass.png',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Image\\TX Tileset Grass.png',
+   'DATA'),
+  ('Maps\\Texture Image\\TX Tileset Stone Ground.png',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Image\\TX Tileset Stone Ground.png',
+   'DATA'),
+  ('Maps\\Texture Image\\TX Tileset Wall.png',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Image\\TX Tileset Wall.png',
+   'DATA'),
+  ('Maps\\Texture Image\\pipo-map001_at.png',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Image\\pipo-map001_at.png',
+   'DATA'),
+  ('Maps\\Texture Tsx\\TX Tileset Grass.tsx',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Tsx\\TX Tileset Grass.tsx',
+   'DATA'),
+  ('Maps\\Texture Tsx\\TX Tileset Stone Ground.tsx',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Tsx\\TX Tileset Stone Ground.tsx',
+   'DATA'),
+  ('Maps\\Texture Tsx\\TX Tileset Wall.tsx',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Tsx\\TX Tileset Wall.tsx',
+   'DATA'),
+  ('Maps\\Texture Tsx\\pipo-map001_at.tsx',
+   'C:\\Users\\Ignatius David\\Desktop\\Terrabyte\\Terrabyte\\Maps\\Texture '
+   'Tsx\\pipo-map001_at.tsx',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Ignatius '
+   'David\\Desktop\\Terrabyte\\Terrabyte\\build\\main\\base_library.zip',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'C:\\Users\\Ignatius '
+   'David\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python310\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA')],)
