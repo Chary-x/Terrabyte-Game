@@ -1,8 +1,8 @@
-# Welcome to Terrabyte, an engaging 2D top-down dungeon crawler where your goal is to gain points by slaying enemies and collecting mythical items. Will you be the one to achieve the highest score in each specific dungeon?
+## Welcome to Terrabyte, an engaging 2D top-down dungeon crawler where your goal is to gain points by slaying enemies and collecting mythical items. Will you be the one to achieve the highest score in each specific dungeon?
 
 
 ## Control System
-![Control System](readmeimgs/Control.png)
+![Control System](readmeimgs/Controls.png)
 In Terrabyte, navigate through dungeons using intuitive controls for a seamless gaming experience.
 
 ## Inventory Management
