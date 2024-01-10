@@ -205,7 +205,7 @@ class Entity():
 	def draw_to_screen(self, screen):
 		self.draw_text(self.display_name, self.game.white, 20, self.rect.x, self.rect.y,)
 		self.draw_health_bar()
-		pg.draw.rect(self.game.screen, self.game.red, self.rect, 2)  # Hitbox
+		# Sprite hitbox pg.draw.rect(self.game.screen, self.game.red, self.rect, 2)  
 		self.get_animation(self.rect)  # Iterate through frames in current animation_list
 
 
@@ -377,8 +377,8 @@ class Player(Entity):
 		self.draw_text(self.display_name, self.game.white, 20, self.rect.x, self.rect.y,)
 		self.draw_health_bar()
 		# draw hitbox and rect
-		pg.draw.rect(self.game.screen, self.game.red, self.rect, 2)  
-		pg.draw.rect(self.game.screen, self.game.blue, self.attack_rect, 2)	 # hitbox rect
+		# Sprite hitbox  pg.draw.rect(self.game.screen, self.game.red, self.rect, 2)  
+		# Attack hitbox pg.draw.rect(self.game.screen, self.game.blue, self.attack_rect, 2)	 # hitbox rect
 		self.get_animation(self.rect)  # Iterate through frames in current animation_list
 
 	def movement(self, direction, speed):
