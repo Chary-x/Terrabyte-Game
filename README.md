@@ -46,7 +46,7 @@ For detailed instructions and gameplay tips, refer to the game manual or documen
 
 ## How to Play
 
-1. **Controls:** Use `WASD` keys to navigate and `Spacebar` to attack enemies. Use `ESC` to return to main menu.
+1. **Controls:** Use `WASD` keys to navigate and `Spacebar` to attack enemies. Use `ESC` to return to main menu. These are customiseable in the settings
 2. **Scoring:** Slay enemies and collect mythical items to accumulate points.
 3. **Dungeon Challenge:** Each dungeon presents a unique challenge to complete within the time limit.
    
